@@ -1,0 +1,55 @@
+Sr.No.,Country,Indian_Carriers,Foreign_Carriers
+1,Afghanistan,1695,3016
+2,Aus- tralia,1792,0
+3,Austria,768,0
+4,Bahrain,4326,9971
+5,Bangladesh,4494,9185
+6,Beigium,3946,0
+7,Bhutan,0,4412
+8,Canada,2051,1188
+9,China,1280,7756
+10,Egypt,0,576
+11,Ethiopia,0,9016
+12,Finland,0,891
+13,France,3648,5577
+14,Germany,1792,15154
+15,Hongkong,5624,13766
+16,Iran,567,1650
+17,Iraq,0,1888
+18,Israel,0,1108
+19,Italy,1792,0
+20,Japan,1792,5362
+21,Kazakhstan,756,1271
+22,Kenya,0,2808
+23,Kuwait,5124,8950
+24,Kyrgyzstan.,0,567
+25,Malaysia,756,31822
+26,Maldives,2254,1600
+27,Mauritius,0,2682
+28,Myanmar,600,540
+29,Nepal,9914,4016
+30,Netherland,4102,2856
+31,Oman,15906,21000
+32,Pakistan,0,1965
+33,Qatar,9282,24658
+34,Russia,540,5628
+35,Saudi Arabia,23491,18445
+36,Seychelles,0,1310
+37,S. Korea,1024,1869
+38,Singapore,14028,33234
+39,Sri Lanka,5992,26736
+40,Switzerland,0,3304
+41,Taiwan,0,921
+42,Tajikistan,0,216
+43,Thailand,15883,20780
+44,Turkey,0,4718
+45,Turkmenistan,0,1730
+46,UAE-AbuDhab i,20192,41658
+47,UAE-Dubai,63957,66504
+48,UAE-Sharjah,8589,18144
+49,UAE-Ras Al Khaimah,756,0
+50,UK,16100,18669
+51,USA,7896,3738
+52,Uzbekistan,756,1584
+53,Yemen,0,1065
+TOTAL,TOTAL,263465,465504
